@@ -1,0 +1,1 @@
+This is eurotrash's first git project!
